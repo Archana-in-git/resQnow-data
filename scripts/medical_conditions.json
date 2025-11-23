@@ -1,0 +1,1424 @@
+[
+  {
+    "id": "airway_obstruction",
+    "name": "Airway Obstruction",
+    "imageUrls": [
+      "lib/assets/images/firstaid_images/airway_1.jpg",
+      "lib/assets/images/firstaid_images/airway_2.jpg",
+      "lib/assets/images/firstaid_images/airway_3.jpg"
+    ],
+    "severity": "high",
+    "firstAidDescription": [
+      "Check if the person can speak or cough.",
+      "If yes, encourage coughing to clear the airway.",
+      "If unable to breathe, cough, or speak or turning blue, call emergency services.",
+      "If trained, give abdominal thrusts (Heimlich maneuver)",
+      "Stand behind, arms around waist, fist above navel, grasp with other hand.",
+      "Thrust inward and upward until object is expelled or person collapses.",
+      "If unresponsive, start CPR until help arrives.",
+      "For infants (<1 yr): give 5 back blows + 5 chest thrusts (no abdominal thrusts)."
+    ],
+    "doNotDo": [
+      "Don’t give abdominal thrusts if the person can cough or talk",
+      "Don’t hit their back while they’re upright and coughing",
+      "Only remove visible objects using hands",
+      "Don’t delay calling emergency services",
+      "Don’t use abdominal thrusts on infants, pregnant, or obese individuals, use chest thrusts instead."
+    ],
+    "videoUrl": "https://youtube.com/embed/xtYSTrjKonU?si=UeAtB663aPH3grat",
+    "requiredKits": [
+      {
+        "name": "Disposable gloves",
+        "iconUrl": "https://dhanvantrihospital.in/wp-content/uploads/2019/01/medical_shop_5.jpg"
+      },
+      {
+        "name": "CPR face shield",
+        "iconUrl": "https://m.media-amazon.com/images/I/51nJUjobfzL.jpg"
+      },
+      {
+        "name": "Flashlight",
+        "iconUrl": "https://nebo.acgbrands.com/en_US/media/catalog/product/d/8/d83cc1b40cd25217fceca724c6f4f771855399c45e2df2d05d4a0b7bea2407d5.jpeg?optimize=high&bg-color=255,255,255&fit=bounds&height=&width="
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How do I know if someone has an airway obstruction?",
+        "answer": "Signs include inability to speak or breathe, clutching the throat, high-pitched sounds while inhaling, or turning blue around the lips."
+      },
+      {
+        "question": "Should I give water to someone who is choking?",
+        "answer": "No. Giving water can worsen the obstruction."
+      },
+      {
+        "question": "What should I do if the person becomes unconscious?",
+        "answer": "Begin CPR immediately and call emergency services."
+      },
+      {
+        "question": "Can I use the Heimlich maneuver on infants?",
+        "answer": "No. For infants under 1 year, use back blows and chest thrusts."
+      }
+    ],
+    "doctorType": ["Emergency Medicine", "ENT"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=emergency"
+  },
+  {
+    "id": "allergic_reaction",
+    "name": "Allergic Reaction",
+    "imageUrls": [
+      "lib/assets/images/firstaid_images/allergy_1.webp",
+      "lib/assets/images/firstaid_images/allergy_2.jpg"
+    ],
+    "severity": "medium",
+    "firstAidDescription": [
+      "1. Stay calm and observe symptoms like rash, itching, swelling, sneezing, watery eyes, or mild breathing difficulty.",
+      "2. Ask if the person has known allergies and whether they have medication (e.g., antihistamines).",
+      "3. Help them take their allergy medication (if available and prescribed), such as oral antihistamines.",
+      "4. Remove the allergen source if possible (e.g., move away from an area with pollen, remove insect stinger if visible).",
+      "5. Monitor for signs of escalation into anaphylaxis (severe allergic reaction), including trouble breathing, swelling of the throat, or dizziness.",
+      "6. Encourage the person to sit in a comfortable position, preferably upright if there's mild breathing difficulty.",
+      "7. Call emergency services if symptoms worsen or don't improve within a short time after medication."
+    ],
+    "doNotDo": [
+      "Do not assume a mild reaction will stay mild — always monitor closely for escalation.",
+      "Do not give medication not prescribed to the person — especially someone else’s antihistamines or injections.",
+      "Do not delay seeking medical help if breathing becomes difficult, even if medication has been given.",
+      "Do not apply any ointments or creams to rashes unless advised by a healthcare provider — it may worsen irritation.",
+      "Do not leave the person alone if they’re showing any signs of moderate or worsening symptoms."
+    ],
+    "videoUrl": "https://www.youtube.com/embed/r_qNTFa13uQ",
+    "requiredKits": [
+      {
+        "name": "Antihistamine tablets",
+        "iconUrl": "resqnow/lib/assets/images/kits/tablets.png"
+      },
+      {
+        "name": "Syrup",
+        "iconUrl": "resqnow/lib/assets/images/kits/syrup.png"
+      },
+      {
+        "name": "Cold pack",
+        "iconUrl": "resqnow/lib/assets/images/kits/cold_pack.png"
+      },
+      {
+        "name": "Hydrocortisone cream",
+        "iconUrl": "resqnow/lib/assets/images/kits/cream.png"
+      },
+      {
+        "name": "Disposable gloves",
+        "iconUrl": "resqnow/lib/assets/images/kits/gloves.png"
+      },
+      {
+        "name": "Alcohol wipes",
+        "iconUrl": "resqnow/lib/assets/images/kits/wipes.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How can I identify an allergic reaction?",
+        "answer": "Symptoms include itching, rash, swelling, sneezing, watery eyes, or mild breathing difficulty."
+      },
+      {
+        "question": "Should I wait to see if the reaction gets worse?",
+        "answer": "No. It’s safer to act quickly with antihistamines and monitor closely."
+      },
+      {
+        "question": "Can allergic reactions go away without treatment?",
+        "answer": "Mild reactions sometimes do, but treatment is recommended to prevent escalation."
+      },
+      {
+        "question": "When should I seek medical help for an allergic reaction?",
+        "answer": "If symptoms worsen, involve breathing difficulty, or don’t subside within an hour."
+      }
+    ],
+    "doctorType": ["Allergist", "General Physician"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=allergy"
+  },
+  {
+    "id": "anaphylaxis",
+    "name": "Anaphylaxis",
+    "imageUrls": ["mock_url_1.jpg", "mock_url_2.jpg", "mock_url_3.jpg"],
+    "severity": "critical",
+    "firstAidDescription": [
+      "Call emergency services immediately — this is a medical emergency requiring urgent care.",
+      "Help the person lie down flat with their legs elevated (unless they're having trouble breathing — then keep them sitting upright).",
+      "Ask if they have an epinephrine auto-injector (EpiPen) — and assist them in using it if they do.",
+      "Inject epinephrine into the outer mid-thigh, through clothing if necessary, and start timing.",
+      "If no improvement after 5–10 minutes and help hasn’t arrived, a second epinephrine injection may be given if available and instructed by medical guidance.",
+      "Keep the person calm and still, monitoring their breathing and responsiveness.",
+      "Begin CPR if the person becomes unconscious and is not breathing or has no pulse.",
+      "Provide reassurance and avoid unnecessary movement, as physical stress can worsen the reaction."
+    ],
+    "doNotDo": [
+      "Do not wait to call emergency help, even if epinephrine has been administered — hospital treatment is still required.",
+      "Do not allow the person to walk or stand up suddenly, as it may cause a sudden drop in blood pressure.",
+      "Do not give food or drink, especially if there is swelling in the mouth or throat.",
+      "Do not use antihistamines as a substitute for epinephrine — they do not treat life-threatening symptoms.",
+      "Do not assume one dose of epinephrine is enough — symptoms can return or worsen without follow-up care."
+    ],
+    "videoUrl": "https://youtube.com/embed/mock_video_id",
+    "requiredKits": [
+      {
+        "name": "Auto-injector (Epinephrine)",
+        "iconUrl": "mock_url_epinephrine.jpg"
+      },
+      {
+        "name": "CPR face shield or mask",
+        "iconUrl": "mock_url_cprmask.jpg"
+      },
+      {
+        "name": "Alcohol wipes",
+        "iconUrl": "mock_url_alcoholwipes.jpg"
+      },
+      {
+        "name": "Gloves",
+        "iconUrl": "mock_url_gloves.jpg"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What’s the difference between an allergy and anaphylaxis?",
+        "answer": "Anaphylaxis is a life-threatening allergic reaction that affects breathing, blood pressure, and consciousness, unlike mild allergies."
+      },
+      {
+        "question": "How fast does anaphylaxis occur?",
+        "answer": "It usually begins within minutes of exposure to the allergen, but can sometimes be delayed."
+      },
+      {
+        "question": "What if the person has no epinephrine injector?",
+        "answer": "Call emergency services immediately and keep the person lying down with legs elevated. Do not delay."
+      },
+      {
+        "question": "Can I give a second dose of epinephrine?",
+        "answer": "Yes, if symptoms persist after 5-15 minutes and another auto-injector is available, a second dose can be administered."
+      }
+    ],
+    "doctorType": ["Emergency Medicine", "Allergist"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=emergency"
+  },
+
+  {
+    "id": "asthma",
+    "name": "Asthma",
+    "imageUrls": [
+      "https://example.com/mock-asthma-image1.jpg",
+      "https://example.com/mock-asthma-image2.jpg"
+    ],
+    "severity": "medium",
+    "firstAidDescription": [
+      "Help the person sit upright and stay calm — encourage slow, steady breathing.",
+      "Ask if they have a reliever inhaler (usually blue) — assist them in using it.",
+      "Encourage the use of the inhaler as prescribed — typically 1–2 puffs every 30–60 seconds, up to 10 puffs.",
+      "Wait and observe symptoms — if there's improvement, continue monitoring for at least 15–20 minutes.",
+      "Call emergency services if symptoms worsen or do not improve after the full inhaler dose.",
+      "Loosen any tight clothing, especially around the neck and chest, to ease breathing.",
+      "Stay with the person and offer reassurance — stress and panic can worsen the attack."
+    ],
+    "doNotDo": [
+      "Do not lie the person down — a sitting position helps open the airways more effectively.",
+      "Do not delay giving the inhaler, even if you’re unsure whether it’s asthma — it's generally safe to give during suspected attacks.",
+      "Do not leave the person alone, especially if symptoms are moderate to severe.",
+      "Do not give food or drink during an active asthma attack — it could cause choking.",
+      "Do not assume the attack is over too quickly — symptoms can return, so monitor for recurrence."
+    ],
+    "videoUrl": "https://example.com/mock-asthma-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Rescue inhaler",
+        "iconUrl": "https://example.com/mock-icon-inhaler.png"
+      },
+      {
+        "name": "Spacer device",
+        "iconUrl": "https://example.com/mock-icon-spacer.png"
+      },
+      {
+        "name": "Portable nebulizer",
+        "iconUrl": "https://example.com/mock-icon-nebulizer.png"
+      },
+      {
+        "name": "Clean drinking water",
+        "iconUrl": "https://example.com/mock-icon-water.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What triggers an asthma attack?",
+        "answer": "Common triggers include dust, pollen, smoke, exercise, cold air, and strong emotions."
+      },
+      {
+        "question": "What if the person doesn’t have their inhaler?",
+        "answer": "Help them stay calm, seated upright, and encourage slow breathing while calling emergency services."
+      },
+      {
+        "question": "Is it safe to use someone else’s inhaler?",
+        "answer": "No. Inhalers are prescribed per individual needs and sharing is not recommended."
+      },
+      {
+        "question": "How do I know it’s a severe asthma attack?",
+        "answer": "Signs include difficulty speaking, bluish lips, rapid breathing, and no relief after using the inhaler."
+      }
+    ],
+    "doctorType": ["Pulmonologist"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=asthma"
+  },
+
+  {
+    "id": "broken_bone",
+    "name": "Broken Bone (Fracture)",
+    "imageUrls": [
+      "https://example.com/mock-brokenbone-image1.jpg",
+      "https://example.com/mock-brokenbone-image2.jpg"
+    ],
+    "severity": "high",
+    "firstAidDescription": [
+      "Keep the person still and encourage them not to move the affected area.",
+      "Support the injured limb with a soft item (like a rolled towel or clothing) to keep it in position.",
+      "Apply a cold pack or cloth-wrapped ice to the injury site to reduce swelling and pain. Do this for 15–20 minutes at a time.",
+      "Cover any open wounds with a clean cloth or sterile dressing to prevent infection.",
+      "If needed, create a makeshift splint to immobilize the area — only if trained or necessary to prevent further injury during transport.",
+      "Call emergency services if the injury is severe, the bone is visible, or the person cannot move or bear weight.",
+      "Keep the person warm and calm, especially if they are in shock or pain."
+    ],
+    "doNotDo": [
+      "Do not try to straighten the limb or push a protruding bone back in.",
+      "Do not move the person unnecessarily — especially if you suspect a spinal, pelvic, or leg fracture.",
+      "Do not apply ice directly to the skin — always wrap it in a cloth or towel.",
+      "Do not give the person food or drink, in case surgery is required.",
+      "Do not ignore signs of shock such as pale skin, cold sweats, or rapid breathing — treat for shock by keeping the person warm and lying down (unless the injury prevents it)."
+    ],
+    "videoUrl": "https://example.com/mock-brokenbone-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Triangular bandages",
+        "iconUrl": "https://example.com/mock-icon-triangular-bandage.png"
+      },
+      {
+        "name": "Splints (rigid or padded)",
+        "iconUrl": "https://example.com/mock-icon-splint.png"
+      },
+      {
+        "name": "Cold packs",
+        "iconUrl": "https://example.com/mock-icon-cold-pack.png"
+      },
+      {
+        "name": "Gauze pads and sterile dressings",
+        "iconUrl": "https://example.com/mock-icon-gauze.png"
+      },
+      {
+        "name": "Adhesive tape",
+        "iconUrl": "https://example.com/mock-icon-adhesive-tape.png"
+      },
+      {
+        "name": "Roller bandage",
+        "iconUrl": "https://example.com/mock-icon-roller-bandage.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How can I tell if a bone is broken or just sprained?",
+        "answer": "Signs of a fracture include visible deformity, inability to move the limb, intense pain, swelling, and sometimes a grinding sound or protruding bone."
+      },
+      {
+        "question": "Should I try to straighten a broken bone?",
+        "answer": "No. Do not attempt to realign the bone. Immobilize it in the current position and seek medical help."
+      },
+      {
+        "question": "Can I give the person food or water?",
+        "answer": "Avoid giving food or drink in case surgery is needed."
+      },
+      {
+        "question": "How do I immobilize a broken limb?",
+        "answer": "Use a splint or sling to support the area, and pad it to prevent movement until professional help arrives."
+      }
+    ],
+    "doctorType": ["Orthopedic Surgeon"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=orthopedic"
+  },
+  {
+    "id": "burn",
+    "name": "Burn",
+    "imageUrls": [
+      "https://example.com/mock-burn-image1.jpg",
+      "https://example.com/mock-burn-image2.jpg"
+    ],
+    "severity": "high",
+    "firstAidDescription": [
+      "Ensure the area is safe — remove the person from the heat source immediately.",
+      "Cool the burn with running cool (not cold) water for at least 10–20 minutes.",
+      "Remove any jewelry, watches, or tight clothing near the burn area before swelling begins.",
+      "Cover the burn loosely with a clean, non-stick dressing or cloth.",
+      "Treat for shock if the burn is severe — lay the person down, elevate legs, and keep them warm.",
+      "Call emergency services if the burn is large, deep, or affects the face, hands, feet, groin, or major joints."
+    ],
+    "doNotDo": [
+      "Do not apply ice, butter, toothpaste, or ointments — these can cause more damage.",
+      "Do not pop blisters — they protect against infection.",
+      "Do not remove clothing stuck to the burn — cut around it instead.",
+      "Do not use fluffy materials like cotton wool directly on the burn — they can stick.",
+      "Do not delay medical help for large, deep, or chemical/electrical burns."
+    ],
+    "videoUrl": "https://example.com/mock-burn-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Burn gel or burn dressings",
+        "iconUrl": "https://example.com/mock-icon-burn-gel.png"
+      },
+      {
+        "name": "Sterile gauze pads",
+        "iconUrl": "https://example.com/mock-icon-sterile-gauze.png"
+      },
+      {
+        "name": "Non-adhesive bandages",
+        "iconUrl": "https://example.com/mock-icon-non-adhesive-bandage.png"
+      },
+      {
+        "name": "Cold compress/instant cold pack",
+        "iconUrl": "https://example.com/mock-icon-cold-compress.png"
+      },
+      {
+        "name": "Scissors",
+        "iconUrl": "https://example.com/mock-icon-scissors.png"
+      },
+      {
+        "name": "Sterile saline or clean water",
+        "iconUrl": "https://example.com/mock-icon-sterile-saline.png"
+      },
+      {
+        "name": "Burn sheet or emergency blanket",
+        "iconUrl": "https://example.com/mock-icon-burn-sheet.png"
+      },
+      {
+        "name": "Hydration",
+        "iconUrl": "https://example.com/mock-icon-hydration.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What’s the first thing I should do when someone gets burned?",
+        "answer": "Cool the burn with cool (not cold) running water for at least 10–20 minutes. Do not use ice."
+      },
+      {
+        "question": "Should I pop blisters?",
+        "answer": "No. Popping blisters increases the risk of infection."
+      },
+      {
+        "question": "Can I apply butter or toothpaste to a burn?",
+        "answer": "No. These home remedies can trap heat and worsen damage or infection."
+      },
+      {
+        "question": "When should a burn be treated in the hospital?",
+        "answer": "If the burn is larger than the palm, on the face/hands/genitals, or shows signs of infection or charring, seek immediate care."
+      }
+    ],
+    "doctorType": ["Plastic Surgeon", "ER Doctor"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=burn-treatment"
+  },
+  {
+    "id": "cardiac_arrest",
+    "name": "Cardiac Arrest",
+    "imageUrls": [
+      "https://example.com/mock-cardiac-arrest-image1.jpg",
+      "https://example.com/mock-cardiac-arrest-image2.jpg"
+    ],
+    "severity": "critical",
+    "firstAidDescription": [
+      "Check responsiveness and breathing — if unresponsive and not breathing normally, suspect cardiac arrest.",
+      "Call emergency services immediately or have someone else call while you act.",
+      "Start CPR right away: Place hands in the center of the chest, push hard and fast (100–120 compressions per minute), allowing full chest recoil.",
+      "Use an AED (Automated External Defibrillator) if available — follow its voice prompts.",
+      "Continue CPR until professional help arrives or the person shows signs of life.",
+      "Rotate with another person doing CPR every 2 minutes if possible to avoid fatigue."
+    ],
+    "doNotDo": [
+      "Do not delay CPR — every second matters in cardiac arrest.",
+      "Do not stop chest compressions unless you're absolutely exhausted or help has arrived.",
+      "Do not leave the person unattended after starting CPR.",
+      "Do not attempt to give breaths without training — compression-only CPR is still effective.",
+      "Do not assume recovery without signs of breathing, movement, or consciousness."
+    ],
+    "videoUrl": "https://example.com/mock-cardiac-arrest-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Automated External Defibrillator (AED)",
+        "iconUrl": "https://example.com/mock-icon-aed.png"
+      },
+      {
+        "name": "CPR mask with one-way valve",
+        "iconUrl": "https://example.com/mock-icon-cpr-mask.png"
+      },
+      {
+        "name": "Disposable gloves",
+        "iconUrl": "https://example.com/mock-icon-gloves.png"
+      },
+      {
+        "name": "Scissors",
+        "iconUrl": "https://example.com/mock-icon-scissors.png"
+      },
+      {
+        "name": "Towel or gauze",
+        "iconUrl": "https://example.com/mock-icon-towel-gauze.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How do I recognize cardiac arrest?",
+        "answer": "The person is unresponsive, not breathing, or gasping. There’s no pulse."
+      },
+      {
+        "question": "What’s the first thing I should do?",
+        "answer": "Call emergency services and start CPR immediately — 30 chest compressions followed by 2 rescue breaths if trained."
+      },
+      {
+        "question": "Should I use an AED (defibrillator) if available?",
+        "answer": "Yes. Use it as soon as possible. Follow the voice prompts from the device."
+      },
+      {
+        "question": "Can I hurt the person by performing CPR incorrectly?",
+        "answer": "It’s better to try than do nothing. Broken ribs are possible but survivable — cardiac arrest isn’t without immediate action."
+      }
+    ],
+    "doctorType": ["Cardiologist", "Emergency Doctor"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=cardiac-emergency"
+  },
+  {
+    "id": "chemical_burn",
+    "name": "Chemical Burn",
+    "imageUrls": [
+      "https://example.com/mock-chemical-burn-image1.jpg",
+      "https://example.com/mock-chemical-burn-image2.jpg"
+    ],
+    "severity": "serious",
+    "firstAidDescription": [
+      "Ensure safety first — avoid contact with the chemical and ventilate the area.",
+      "Remove contaminated clothing or jewelry carefully — use gloves if available.",
+      "Flush the affected area with cool running water immediately for at least 20 minutes.",
+      "Avoid splashing and ensure the water drains away safely.",
+      "Call emergency services and inform them of the chemical involved if known.",
+      "If eyes are affected, flush with clean water by tilting the head so the affected eye is down — rinse from the nose side outward."
+    ],
+    "doNotDo": [
+      "Do not touch or rub the affected area, especially the eyes.",
+      "Do not apply creams, ointments, or neutralizing substances unless instructed by medical professionals.",
+      "Do not delay flushing, even for a few seconds — early rinsing reduces damage.",
+      "Do not use a forceful water stream directly on the burn — it may cause more harm.",
+      "Do not assume the burn is minor — even small chemical burns can be serious."
+    ],
+    "videoUrl": "https://example.com/mock-chemical-burn-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Sterile saline solution",
+        "iconUrl": "https://example.com/mock-icon-saline.png"
+      },
+      {
+        "name": "Clean running water",
+        "iconUrl": "https://example.com/mock-icon-water.png"
+      },
+      {
+        "name": "Gloves",
+        "iconUrl": "https://example.com/mock-icon-gloves.png"
+      },
+      {
+        "name": "Safety goggles",
+        "iconUrl": "https://example.com/mock-icon-goggles.png"
+      },
+      {
+        "name": "Tweezers",
+        "iconUrl": "https://example.com/mock-icon-tweezers.png"
+      },
+      {
+        "name": "Scissors",
+        "iconUrl": "https://example.com/mock-icon-scissors.png"
+      },
+      {
+        "name": "Non-stick sterile dressings",
+        "iconUrl": "https://example.com/mock-icon-nonstick.png"
+      },
+      {
+        "name": "Burn gel",
+        "iconUrl": "https://example.com/mock-icon-burn-gel.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What should I do first in a chemical burn?",
+        "answer": "Immediately remove contaminated clothing and flush the affected area with running water for at least 20 minutes."
+      },
+      {
+        "question": "Can I neutralize the chemical with vinegar or baking soda?",
+        "answer": "No. Never try to neutralize a chemical — it can cause more damage. Just rinse with water and get medical help."
+      },
+      {
+        "question": "What if the chemical got into the eyes?",
+        "answer": "Rinse the eyes with clean, lukewarm water continuously and seek emergency care immediately."
+      },
+      {
+        "question": "Should I cover the burn after rinsing?",
+        "answer": "If possible, loosely cover with a sterile, non-stick bandage or clean cloth to protect it from infection."
+      }
+    ],
+    "doctorType": ["Emergency Medicine", "Dermatologist"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=chemical-burn"
+  },
+  {
+    "id": "chemical_in_eye",
+    "name": "Chemical in Eye",
+    "imageUrls": [
+      "https://example.com/mock-chemical-eye-image1.jpg",
+      "https://example.com/mock-chemical-eye-image2.jpg"
+    ],
+    "severity": "high",
+    "firstAidDescription": [
+      "Call emergency services immediately, especially if the chemical is unknown or the person is in severe pain.",
+      "Hold the eye open and begin flushing with clean, lukewarm water right away — continue for at least 20 minutes.",
+      "Flush from the inner corner outward, so the water flows away from the unaffected eye.",
+      "Remove contact lenses if present and easy to take out, preferably during flushing.",
+      "Keep the person still and calm, and cover the affected eye loosely with a clean cloth after rinsing.",
+      "Try to identify the chemical (e.g., product label) to inform medical responders."
+    ],
+    "doNotDo": [
+      "Do not delay rinsing the eye, even for a few seconds — immediate action is critical.",
+      "Do not rub or press the eye, as it can worsen the damage.",
+      "Do not use any eye drops, ointments, or neutralizers, unless advised by a medical professional.",
+      "Do not flush both eyes simultaneously, if only one is affected — avoid spreading the chemical.",
+      "Do not stop flushing too soon, even if the person feels relief."
+    ],
+    "videoUrl": "https://example.com/mock-chemical-eye-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Clean gauze pad or eye shield",
+        "iconUrl": "https://example.com/mock-icon-eye-shield.png"
+      },
+      {
+        "name": "Clean running water",
+        "iconUrl": "https://example.com/mock-icon-water.png"
+      },
+      {
+        "name": "Eye wash cup",
+        "iconUrl": "https://example.com/mock-icon-eye-wash-cup.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What is the first step if a chemical enters the eye?",
+        "answer": "Immediately flush the eye with clean, lukewarm water for at least 15–20 minutes. Do not delay."
+      },
+      {
+        "question": "Should I try to remove contact lenses during rinsing?",
+        "answer": "Yes, if easily removable. But continue flushing even if they don’t come out right away."
+      },
+      {
+        "question": "Can I use eye drops or saline instead of water?",
+        "answer": "Water is best for initial rinsing. Do not use any eye drops unless advised by a doctor."
+      },
+      {
+        "question": "When should I seek emergency medical help?",
+        "answer": "Always. Chemical eye exposure can cause permanent damage, even if pain decreases after rinsing."
+      }
+    ],
+    "doctorType": ["Ophthalmologist", "ER"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=eye-emergency"
+  },
+  {
+    "id": "deep_cut",
+    "name": "Deep Cut (Laceration)",
+    "imageUrls": [
+      "https://www.e-firstaidsupplies.com/blog/wp-content/uploads/2023/05/types-of-open-wounds-guide-01-810x500.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLSZchzVBAxLU7TyzWfE9LS51A2inkY8v2xw&s"
+    ],
+    "severity": "medium",
+    "firstAidDescription": [
+      "Wash hands or wear gloves if available to prevent infection.",
+      "Apply firm, direct pressure with a clean cloth or dressing to stop the bleeding.",
+      "Keep the injured area elevated above heart level, if possible, to reduce blood flow.",
+      "Once bleeding slows, cover the wound with a sterile bandage or clean cloth.",
+      "Call emergency services if bleeding doesn’t stop after 10 minutes, or if the cut is deep, gaping, or caused by a dirty object.",
+      "Monitor for signs of shock — pale skin, rapid breathing, or confusion — and treat by laying the person down and elevating legs."
+    ],
+    "doNotDo": [
+      "Do not remove embedded objects — instead, stabilize them with padding and get medical help.",
+      "Do not try to clean deep wounds extensively — let professionals handle deep cleaning.",
+      "Do not apply tourniquets unless professionally trained — improper use can cause serious harm.",
+      "Do not peek under the cloth while applying pressure — it may disrupt clotting.",
+      "Do not ignore signs of infection (e.g., redness, pus, swelling in the following days)."
+    ],
+    "videoUrl": "https://youtube.com/shorts/kJSnso8T4qs?si=aX35pjWX1GBZ-ppC",
+    "requiredKits": [
+      {
+        "name": "Sterile gauze pads",
+        "iconUrl": "https://example.com/mock-icon-gauze.png"
+      },
+      {
+        "name": "Roller bandage",
+        "iconUrl": "https://example.com/mock-icon-roller-bandage.png"
+      },
+      {
+        "name": "Adhesive wrap",
+        "iconUrl": "https://example.com/mock-icon-adhesive-wrap.png"
+      },
+      {
+        "name": "Antiseptic wipes",
+        "iconUrl": "https://example.com/mock-icon-antiseptic-wipes.png"
+      },
+      {
+        "name": "Tourniquet",
+        "iconUrl": "https://example.com/mock-icon-tourniquet.png"
+      },
+      {
+        "name": "Disposable gloves",
+        "iconUrl": "https://example.com/mock-icon-gloves.png"
+      },
+      {
+        "name": "Scissors",
+        "iconUrl": "https://example.com/mock-icon-scissors.png"
+      },
+      {
+        "name": "Butterfly bandages or wound closure strips",
+        "iconUrl": "https://example.com/mock-icon-butterfly.png"
+      },
+      {
+        "name": "Sterile dressing tray",
+        "iconUrl": "https://example.com/mock-icon-dressing-tray.png"
+      },
+      {
+        "name": "Antibiotic ointment",
+        "iconUrl": "https://example.com/mock-icon-ointment.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How do I stop bleeding from a deep cut?",
+        "answer": "Apply direct, firm pressure with a clean cloth or gauze for several minutes until bleeding stops."
+      },
+      {
+        "question": "Should I clean the wound immediately?",
+        "answer": "For minor cuts, rinse gently with clean water. For deep cuts with heavy bleeding, stop bleeding first and then clean around the wound if possible."
+      },
+      {
+        "question": "How do I know if stitches are needed?",
+        "answer": "If the cut is longer than 1/2 inch, gaping, deep, or bleeding doesn’t stop after 10–15 minutes of pressure — seek medical attention."
+      },
+      {
+        "question": "Can I use antiseptic or hydrogen peroxide?",
+        "answer": "Mild antiseptic around the wound is okay, but avoid pouring strong chemicals directly inside deep wounds."
+      }
+    ],
+    "doctorType": ["General Surgeon", "ER Doctor"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=deep_cut"
+  },
+  {
+    "id": "drowning",
+    "name": "Drowning",
+    "imageUrls": [
+      "https://example.com/mock-drowning-image1.jpg",
+      "https://example.com/mock-drowning-image2.jpg"
+    ],
+    "severity": "critical",
+    "firstAidDescription": [
+      "Ensure your own safety first before attempting a rescue — use a flotation device if available.",
+      "Call emergency services immediately while others begin rescue efforts.",
+      "If trained and it’s safe, remove the person from the water and lay them on their back.",
+      "Check for breathing and responsiveness — if not breathing, start CPR immediately.",
+      "Begin chest compressions followed by rescue breaths (30 compressions, 2 breaths), if trained.",
+      "Continue CPR until help arrives or the person starts breathing.",
+      "If the person is breathing, place them in the recovery position and keep them warm."
+    ],
+    "doNotDo": [
+      "Do not attempt a rescue by entering the water unless you’re trained — you could also become a victim.",
+      "Do not delay CPR — even if water was swallowed or vomiting occurs.",
+      "3. Do not assume the person is fine just because they’re breathing — drowning victims can deteriorate after apparent recovery (secondary drowning).",
+      "4. Do not give food or drink until they’ve been fully evaluated by medical professionals.",
+      "5. Do not leave the person alone, even if they seem stable — monitor continuously."
+    ],
+    "videoUrl": "https://example.com/mock-drowning-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Rescue mask with one-way valve (CPR mask)",
+        "iconUrl": "https://example.com/mock-icon-cpr-mask.png"
+      },
+      {
+        "name": "Pocket resuscitator or CPR face shield",
+        "iconUrl": "https://example.com/mock-icon-cpr-face-shield.png"
+      },
+      {
+        "name": "Emergency blanket",
+        "iconUrl": "https://example.com/mock-icon-emergency-blanket.png"
+      },
+      {
+        "name": "Clean towels",
+        "iconUrl": "https://example.com/mock-icon-towel.png"
+      },
+      {
+        "name": "Antiseptic wipes",
+        "iconUrl": "https://example.com/mock-icon-antiseptic-wipes.png"
+      },
+      {
+        "name": "Waterproof gloves",
+        "iconUrl": "https://example.com/mock-icon-waterproof-gloves.png"
+      },
+      {
+        "name": "Automated External Defibrillator (AED)",
+        "iconUrl": "https://example.com/mock-icon-aed.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What’s the first thing I should do if someone is drowning?",
+        "answer": "Ensure your own safety, remove the person from water only if it’s safe, then check for breathing and pulse."
+      },
+      {
+        "question": "Should I start CPR immediately?",
+        "answer": "Yes, if the person is unresponsive and not breathing. Begin with 30 chest compressions followed by 2 rescue breaths."
+      },
+      {
+        "question": "Do I need to get water out of their lungs first?",
+        "answer": "No. Focus on CPR — the body will naturally expel water. Time is critical to restore breathing and circulation."
+      },
+      {
+        "question": "What if they vomit during CPR?",
+        "answer": "Turn the person’s head to the side to clear the airway, then resume CPR immediately."
+      }
+    ],
+    "doctorType": ["Emergency Medicine", "Pulmonologist"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=drowning"
+  },
+  {
+    "id": "electric_shock",
+    "name": "Electric Shock",
+    "imageUrls": [
+      "https://example.com/mock-electric-shock-image1.jpg",
+      "https://example.com/mock-electric-shock-image2.jpg"
+    ],
+    "severity": "serious",
+    "firstAidDescription": [
+      "Ensure the scene is safe — do not touch the person until the power source is turned off or removed.",
+      "Turn off electricity at the source, if possible. Use a non-conductive object (like wood or plastic) to move the person away if necessary.",
+      "Call emergency services immediately, especially for high-voltage or unconscious victims.",
+      "Check for breathing and responsiveness — begin CPR if the person is unresponsive and not breathing.",
+      "Treat visible burns with cool running water and cover loosely with a clean cloth.",
+      "Keep the person lying down and monitor for signs of shock, including shallow breathing or pale skin.",
+      "Stay with the person until professional help arrives."
+    ],
+    "doNotDo": [
+      "Do not touch the person directly if they’re still in contact with electricity.",
+      "Do not use metal or wet objects to move someone away from the source.",
+      "Do not apply ice or ointments to electrical burns.",
+      "Do not assume they’re fine because they’re awake — internal injuries or heart problems may still develop.",
+      "Do not delay medical evaluation, even for minor electric shocks."
+    ],
+    "videoUrl": "https://example.com/mock-electric-shock-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Gloves",
+        "iconUrl": "https://example.com/mock-icon-gloves.png"
+      },
+      {
+        "name": "CPR face shield or mask",
+        "iconUrl": "https://example.com/mock-icon-cpr-mask.png"
+      },
+      {
+        "name": "Burn dressing",
+        "iconUrl": "https://example.com/mock-icon-burn-dressing.png"
+      },
+      {
+        "name": "Sterile gauze pads and bandages",
+        "iconUrl": "https://example.com/mock-icon-gauze.png"
+      },
+      {
+        "name": "Adhesive tape",
+        "iconUrl": "https://example.com/mock-icon-tape.png"
+      },
+      {
+        "name": "Emergency blanket",
+        "iconUrl": "https://example.com/mock-icon-emergency-blanket.png"
+      },
+      {
+        "name": "Antiseptic wipes",
+        "iconUrl": "https://example.com/mock-icon-antiseptic-wipes.png"
+      },
+      {
+        "name": "Insulated scissors",
+        "iconUrl": "https://example.com/mock-icon-insulated-scissors.png"
+      },
+      {
+        "name": "Automated External Defibrillator (AED)",
+        "iconUrl": "https://example.com/mock-icon-aed.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Should I touch someone who is being electrocuted?",
+        "answer": "No. First, turn off the power source or use a non-conductive object (like wood or plastic) to separate them from the source."
+      },
+      {
+        "question": "What if they appear fine afterward?",
+        "answer": "Seek medical attention anyway. Electric shocks can cause internal injuries or delayed complications."
+      },
+      {
+        "question": "What are signs of serious electric shock?",
+        "answer": "Burns, confusion, irregular heartbeat, breathing problems, unconsciousness, or seizures."
+      },
+      {
+        "question": "Can I use water to treat electric burns?",
+        "answer": "No. Cover burns with a clean, dry cloth and avoid applying water or creams until evaluated by a doctor."
+      }
+    ],
+    "doctorType": ["Emergency Medicine", "Cardiologist"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=electric-shock"
+  },
+  {
+    "id": "head_injury",
+    "name": "Head Injury",
+    "imageUrls": [
+      "https://example.com/mock-head-injury-image1.jpg",
+      "https://example.com/mock-head-injury-image2.jpg"
+    ],
+    "severity": "critical",
+    "firstAidDescription": [
+      "Keep the person still and calm, with the head and shoulders slightly elevated if no spinal injury is suspected.",
+      "Apply gentle pressure with a clean cloth to stop bleeding, unless there’s a suspected skull fracture.",
+      "Use a cold pack wrapped in a cloth to reduce swelling for minor bumps.",
+      "Monitor for signs of serious injury, such as vomiting, confusion, drowsiness, seizures, or loss of consciousness.",
+      "Call emergency services if any concerning symptoms appear or if the person lost consciousness at any point.",
+      "Treat for shock by keeping the person warm and still if needed."
+    ],
+    "doNotDo": [
+      "Do not move the person if you suspect a neck or spinal injury — unless absolutely necessary.",
+      "Do not apply direct pressure to an open or depressed skull fracture.",
+      "Do not give food, drink, or medications, especially if the person is vomiting or drowsy.",
+      "Do not let the person sleep if they're showing symptoms of a serious head injury — monitor closely.",
+      "5. Do not ignore changes in behavior or alertness — even subtle symptoms may indicate brain injury."
+    ],
+    "videoUrl": "https://example.com/mock-head-injury-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Sterile gauze pads",
+        "iconUrl": "https://example.com/mock-icon-gauze.png"
+      },
+      {
+        "name": "Cold packs",
+        "iconUrl": "https://example.com/mock-icon-cold-pack.png"
+      },
+      {
+        "name": "Triangular bandage",
+        "iconUrl": "https://example.com/mock-icon-triangular-bandage.png"
+      },
+      {
+        "name": "Disposable gloves",
+        "iconUrl": "https://example.com/mock-icon-gloves.png"
+      },
+      {
+        "name": "Emergency blanket",
+        "iconUrl": "https://example.com/mock-icon-emergency-blanket.png"
+      },
+      {
+        "name": "Antiseptic wipes",
+        "iconUrl": "https://example.com/mock-icon-antiseptic-wipes.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What are the warning signs of a serious head injury?",
+        "answer": "Loss of consciousness, vomiting, confusion, unequal pupil size, drowsiness, or bleeding from nose/ears are red flags—seek emergency care immediately."
+      },
+      {
+        "question": "Should the injured person sleep after a head bump?",
+        "answer": "Monitor for a few hours. If they remain alert and symptoms are mild, sleep is okay—but wake them periodically to check responsiveness."
+      },
+      {
+        "question": "Can I give them medicine for the pain?",
+        "answer": "Avoid aspirin or strong painkillers. Use only paracetamol and only if no signs of severe injury are present."
+      },
+      {
+        "question": "Should I apply ice?",
+        "answer": "Yes, gently apply an ice pack (wrapped in cloth) for 10–20 minutes to reduce swelling."
+      }
+    ],
+    "doctorType": ["Neurologist", "Neurosurgeon"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=head-injury"
+  },
+  {
+    "id": "insect_sting_reaction",
+    "name": "Insect Sting Reaction",
+    "imageUrls": [
+      "https://example.com/mock-insect-sting-image1.jpg",
+      "https://example.com/mock-insect-sting-image2.jpg"
+    ],
+    "severity": "medium",
+    "firstAidDescription": [
+      "Move the person away from the insect or danger zone to prevent further stings.",
+      "If the stinger is visible, gently scrape it out using a flat object (e.g., a card) — avoid squeezing.",
+      "Wash the area with soap and water, then apply a cold pack wrapped in a cloth to reduce swelling.",
+      "Give oral antihistamines if prescribed or approved, to ease itching or swelling.",
+      "Monitor for signs of severe allergic reaction, such as trouble breathing, swelling of the face or throat, or dizziness.",
+      "Call emergency services immediately if any signs of anaphylaxis occur."
+    ],
+    "doNotDo": [
+      "Do not squeeze or use tweezers to remove a stinger — it may release more venom.",
+      "Do not ignore worsening symptoms, even if initial reaction seems mild.",
+      "Do not apply creams or ointments unless advised by a doctor — they can irritate the area.",
+      "Do not leave the person alone if they show signs of a severe reaction.",
+      "Do not assume it's safe after one sting — some people develop allergies over time."
+    ],
+    "videoUrl": "https://example.com/mock-insect-sting-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Antihistamine tablets",
+        "iconUrl": "https://example.com/mock-icon-antihistamine-tablets.png"
+      },
+      {
+        "name": "Antihistamine cream",
+        "iconUrl": "https://example.com/mock-icon-antihistamine-cream.png"
+      },
+      {
+        "name": "Cold packs",
+        "iconUrl": "https://example.com/mock-icon-cold-pack.png"
+      },
+      {
+        "name": "Tweezers",
+        "iconUrl": "https://example.com/mock-icon-tweezers.png"
+      },
+      {
+        "name": "Alcohol swabs",
+        "iconUrl": "https://example.com/mock-icon-alcohol-swabs.png"
+      },
+      {
+        "name": "Hydrocortisone cream (1%)",
+        "iconUrl": "https://example.com/mock-icon-hydrocortisone-cream.png"
+      },
+      {
+        "name": "Epinephrine auto-injector",
+        "iconUrl": "https://example.com/mock-icon-epipen.png"
+      },
+      {
+        "name": "Gloves",
+        "iconUrl": "https://example.com/mock-icon-gloves.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How do I treat a mild sting at home?",
+        "answer": "Wash the area, apply a cold pack, and use antihistamine cream to reduce swelling and itching."
+      },
+      {
+        "question": "Should I remove the stinger?",
+        "answer": "Yes, scrape it off gently using a credit card or blunt object. Don’t squeeze it with tweezers."
+      },
+      {
+        "question": "When is it an emergency?",
+        "answer": "If there’s difficulty breathing, swelling of the face or throat, dizziness, or chest tightness—these are signs of anaphylaxis. Call emergency services immediately."
+      },
+      {
+        "question": "Can I give an EpiPen?",
+        "answer": "Yes, if the person has a known allergy and carries one, help them use it immediately and seek medical help afterward."
+      }
+    ],
+    "doctorType": ["Allergist", "General Physician"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=insect-sting-reaction"
+  },
+  {
+    "id": "muscle_strain",
+    "name": "Muscle Strain",
+    "imageUrls": [
+      "https://example.com/mock-muscle-strain-image1.jpg",
+      "https://example.com/mock-muscle-strain-image2.jpg"
+    ],
+    "severity": "low",
+    "firstAidDescription": [
+      "Stop all activity immediately to prevent further injury.",
+      "Rest the affected area and avoid using the strained muscle.",
+      "Apply a cold pack wrapped in cloth for 15–20 minutes every hour for the first 48 hours to reduce swelling.",
+      "Compress the area with an elastic bandage if swelling is present, but not so tightly that circulation is affected.",
+      "Elevate the limb above heart level, if possible, to minimize swelling.",
+      "After 48 hours, gentle heat and light stretching may help recovery if there is no swelling.",
+      "Consult a healthcare provider if pain is severe or movement is restricted."
+    ],
+    "doNotDo": [
+      "Do not continue using the injured muscle — it may worsen the strain.",
+      "Do not apply heat in the first 48 hours, as it may increase swelling.",
+      "Do not massage the area aggressively, especially early on.",
+      "Do not wrap the bandage too tightly, as it can cut off blood flow.",
+      "Do not ignore prolonged pain or bruising — seek medical attention."
+    ],
+    "videoUrl": "https://example.com/mock-muscle-strain-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Cold packs",
+        "iconUrl": "https://example.com/mock-icon-cold-pack.png"
+      },
+      {
+        "name": "Elastic compression bandage",
+        "iconUrl": "https://example.com/mock-icon-elastic-bandage.png"
+      },
+      {
+        "name": "Pain relief spray",
+        "iconUrl": "https://example.com/mock-icon-pain-relief-spray.png"
+      },
+      {
+        "name": "Pain relief gel",
+        "iconUrl": "https://example.com/mock-icon-pain-relief-gel.png"
+      },
+      {
+        "name": "Adhesive tape",
+        "iconUrl": "https://example.com/mock-icon-adhesive-tape.png"
+      },
+      {
+        "name": "Anti-inflammatory tablets",
+        "iconUrl": "https://example.com/mock-icon-anti-inflammatory-tablets.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What’s the best immediate treatment for a pulled muscle?",
+        "answer": "Use the R.I.C.E. method—Rest, Ice, Compression, and Elevation."
+      },
+      {
+        "question": "Should I stretch or massage the muscle right away?",
+        "answer": "No. Let the muscle rest for at least 24–48 hours. Stretching or massaging too early can worsen the injury."
+      },
+      {
+        "question": "How long should I apply ice?",
+        "answer": "Apply a cold pack for 15–20 minutes every 2–3 hours for the first 48 hours."
+      },
+      {
+        "question": "When should I see a doctor?",
+        "answer": "If pain persists, swelling increases, or you can't move the affected area, medical evaluation is needed."
+      }
+    ],
+    "doctorType": ["Orthopedic", "Physiotherapist"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=muscle-strain"
+  },
+  {
+    "id": "nosebleed",
+    "name": "Nosebleed",
+    "imageUrls": [
+      "https://example.com/mock-nosebleed-image1.jpg",
+      "https://example.com/mock-nosebleed-image2.jpg"
+    ],
+    "severity": "low",
+    "firstAidDescription": [
+      "Sit the person upright and tilt their head slightly forward — not backward.",
+      "Pinch the soft part of the nose just below the bridge using thumb and index finger.",
+      "Maintain firm pressure for 10–15 minutes without releasing.",
+      "Encourage breathing through the mouth during the process.",
+      "After bleeding stops, advise avoiding nose blowing, sneezing, or bending over for a few hours.",
+      "Apply a cold compress to the bridge of the nose, if desired, to help constrict blood vessels.",
+      "Seek medical help if bleeding persists after 20 minutes or if nosebleeds are frequent."
+    ],
+    "doNotDo": [
+      "Do not tilt the head backward — it can cause blood to flow into the throat and lead to choking or nausea.",
+      "Do not insert tissues or cotton swabs deep into the nose — it may damage tissue or dislodge clots.",
+      "Do not blow the nose immediately after the bleeding stops.",
+      "Do not allow the person to lie down, especially flat on their back.",
+      "Do not ignore recurring nosebleeds — they may signal an underlying condition."
+    ],
+    "videoUrl": "https://example.com/mock-nosebleed-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Sterile gauze pads",
+        "iconUrl": "https://example.com/mock-icon-gauze.png"
+      },
+      {
+        "name": "Tissues",
+        "iconUrl": "https://example.com/mock-icon-tissues.png"
+      },
+      {
+        "name": "Cold pack",
+        "iconUrl": "https://example.com/mock-icon-cold-pack.png"
+      },
+      {
+        "name": "Antiseptic wipes",
+        "iconUrl": "https://example.com/mock-icon-antiseptic.png"
+      },
+      {
+        "name": "Nasal clip",
+        "iconUrl": "https://example.com/mock-icon-nasal-clip.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What’s the correct position during a nosebleed?",
+        "answer": "Sit upright and lean slightly forward. Don’t tilt your head back—it can cause blood to flow into the throat."
+      },
+      {
+        "question": "How do I stop the bleeding?",
+        "answer": "Pinch the soft part of the nose just below the bridge for 10–15 minutes continuously. Breathe through the mouth."
+      },
+      {
+        "question": "Should I put tissue or cotton inside the nose?",
+        "answer": "No. Avoid inserting anything into the nostrils. It can worsen bleeding or cause irritation."
+      },
+      {
+        "question": "When is a nosebleed considered serious?",
+        "answer": "If bleeding lasts more than 20 minutes, occurs frequently, or follows a head injury—seek medical help."
+      }
+    ],
+    "doctorType": ["ENT Specialist"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=nosebleed"
+  },
+  {
+    "id": "poisonous_gas_fumes",
+    "name": "Poisonous Gas/Fumes",
+    "imageUrls": [
+      "https://example.com/mock-poisonous-gas-image1.jpg",
+      "https://example.com/mock-poisonous-gas-image2.jpg"
+    ],
+    "severity": "critical",
+    "firstAidDescription": [
+      "Do not enter the area unless it's safe — avoid exposure to the gas yourself.",
+      "Move the person to fresh air immediately, preferably outdoors or near open windows/doors.",
+      "Call emergency services without delay, even if the person appears conscious.",
+      "Loosen tight clothing and keep the person sitting or lying in a comfortable position.",
+      "Monitor breathing and consciousness — begin CPR if they are unresponsive and not breathing.",
+      "If the person is vomiting, turn them onto their side to prevent choking.",
+      "Provide reassurance and stay with the person until medical help arrives."
+    ],
+    "doNotDo": [
+      "Do not attempt rescue in a toxic area without protection — you could become a victim too.",
+      "Do not allow the person to lie flat if they are struggling to breathe.",
+      "Do not give food, fluids, or medications unless directed by professionals.",
+      "Do not delay seeking emergency help, even if symptoms seem mild at first.",
+      "Do not ignore signs like confusion, dizziness, or headache — these could indicate serious poisoning."
+    ],
+    "videoUrl": "https://example.com/mock-poisonous-gas-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Face mask",
+        "iconUrl": "https://example.com/mock-icon-face-mask.png"
+      },
+      {
+        "name": "Respirator",
+        "iconUrl": "https://example.com/mock-icon-respirator.png"
+      },
+      {
+        "name": "Oxygen mask",
+        "iconUrl": "https://example.com/mock-icon-oxygen-mask.png"
+      },
+      {
+        "name": "CPR mask with one-way valve",
+        "iconUrl": "https://example.com/mock-icon-cpr-mask.png"
+      },
+      {
+        "name": "Emergency blanket",
+        "iconUrl": "https://example.com/mock-icon-emergency-blanket.png"
+      },
+      {
+        "name": "Eye wash solution",
+        "iconUrl": "https://example.com/mock-icon-eye-wash.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What’s the first thing I should do if someone is exposed to toxic gas?",
+        "answer": "Immediately move the person to fresh air without endangering yourself. Open doors and windows if indoors."
+      },
+      {
+        "question": "Should I perform CPR if they’re unconscious?",
+        "answer": "Yes—if the person isn’t breathing or has no pulse, begin CPR and call emergency services."
+      },
+      {
+        "question": "Can I give them water or make them vomit?",
+        "answer": "No. Never induce vomiting or give anything by mouth unless instructed by a poison control center or emergency personnel."
+      },
+      {
+        "question": "What symptoms suggest toxic inhalation?",
+        "answer": "Difficulty breathing, dizziness, nausea, headache, bluish skin, or unconsciousness."
+      }
+    ],
+    "doctorType": ["Pulmonologist", "Emergency Doctor"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=poisonous-gas-exposure"
+  },
+  {
+    "id": "seizure",
+    "name": "Seizure",
+    "imageUrls": [
+      "https://example.com/mock-seizure-image1.jpg",
+      "https://example.com/mock-seizure-image2.jpg"
+    ],
+    "severity": "high",
+    "firstAidDescription": [
+      "Stay calm and ensure the person is safe — move nearby objects away to prevent injury.",
+      "Gently guide the person to the ground if they’re standing, and place something soft under their head.",
+      "Turn the person onto their side, if possible, to help keep the airway clear and prevent choking.",
+      "Note the time the seizure started and how long it lasts.",
+      "Loosen tight clothing around the neck such as ties, collars, or scarves.",
+      "Stay with the person until the seizure ends and they regain awareness.",
+      "Call emergency services if: it lasts longer than 5 minutes, the person is pregnant or injured, they do not regain consciousness, or it's their first seizure."
+    ],
+    "doNotDo": [
+      "Do not try to restrain or hold the person down during a seizure.",
+      "Do not put anything in their mouth — it does not prevent tongue-biting and can cause choking.",
+      "Do not give food, drink, or medication until they are fully alert.",
+      "Do not leave the person alone after the seizure — stay until they are fully recovered.",
+      "Do not panic — most seizures are not life-threatening."
+    ],
+    "videoUrl": "https://example.com/mock-seizure-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Emergency blanket",
+        "iconUrl": "https://example.com/mock-icon-emergency-blanket.png"
+      },
+      {
+        "name": "Gloves",
+        "iconUrl": "https://example.com/mock-icon-gloves.png"
+      },
+      {
+        "name": "Towel or cloth",
+        "iconUrl": "https://example.com/mock-icon-towel.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What should I do if someone is having a seizure?",
+        "answer": "Stay calm. Clear the area of sharp objects, place something soft under their head, and turn them on their side once convulsions stop."
+      },
+      {
+        "question": "Should I restrain the person or put something in their mouth?",
+        "answer": "No. Never hold them down or place anything in their mouth—it can cause injury or choking."
+      },
+      {
+        "question": "How long is too long for a seizure?",
+        "answer": "If it lasts more than 5 minutes, or repeats without recovery in between, call emergency services immediately."
+      },
+      {
+        "question": "What to do after the seizure ends?",
+        "answer": "Keep them on their side, stay with them, and reassure them. Let them rest as they may feel confused or tired."
+      }
+    ],
+    "doctorType": ["Neurologist"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=neurology"
+  },
+  {
+    "id": "snake_bite",
+    "name": "Snake Bite",
+    "imageUrls": [
+      "https://example.com/mock-snake-bite-image1.jpg",
+      "https://example.com/mock-snake-bite-image2.jpg"
+    ],
+    "severity": "critical",
+    "firstAidDescription": [
+      "Move the person away from the snake and keep them calm and still to slow venom spread.",
+      "Keep the bitten area still and at or below heart level.",
+      "Remove tight clothing, rings, or jewelry near the bite site.",
+      "Call emergency services immediately — describe the snake if it can be done safely.",
+      "Cover the bite with a clean, dry cloth.",
+      "Limit movement — immobilize the limb with a splint or sling if possible.",
+      "Reassure the person and keep them lying down until help arrives."
+    ],
+    "doNotDo": [
+      "Do not try to suck out the venom or cut the wound.",
+      "Do not apply ice, tourniquets, or electric shocks — these can worsen the damage.",
+      "Do not try to catch or kill the snake — this wastes time and increases risk.",
+      "Do not allow the person to walk or exert themselves — movement speeds venom spread.",
+      "Do not give alcohol or caffeine, which can affect circulation."
+    ],
+    "videoUrl": "https://example.com/mock-snake-bite-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Elastic bandage",
+        "iconUrl": "https://example.com/mock-icon-elastic-bandage.png"
+      },
+      {
+        "name": "Splint",
+        "iconUrl": "https://example.com/mock-icon-splint.png"
+      },
+      {
+        "name": "Antiseptic wipes",
+        "iconUrl": "https://example.com/mock-icon-antiseptic-wipes.png"
+      },
+      {
+        "name": "Clean gauze pads",
+        "iconUrl": "https://example.com/mock-icon-gauze-pads.png"
+      },
+      {
+        "name": "Gloves",
+        "iconUrl": "https://example.com/mock-icon-gloves.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What are the signs of a venomous snake bite?",
+        "answer": "Severe pain, swelling, discoloration at the bite site, difficulty breathing, nausea, or blurred vision."
+      },
+      {
+        "question": "What’s the correct first aid?",
+        "answer": "Keep the person calm and still. Immobilize the bitten limb and keep it below heart level. Call emergency services immediately."
+      },
+      {
+        "question": "Should I suck out the venom or cut the wound?",
+        "answer": "No. These outdated methods are dangerous and ineffective."
+      },
+      {
+        "question": "Can I apply a tourniquet or ice?",
+        "answer": "No. Tourniquets and ice can worsen the damage. Do not apply them unless advised by professionals."
+      }
+    ],
+    "doctorType": ["Toxicologist", "Emergency Doctor"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=toxicology"
+  },
+  {
+    "id": "spinal_cord_injury",
+    "name": "Spinal Cord Injury",
+    "imageUrls": [
+      "https://example.com/mock-spinal-injury-image1.jpg",
+      "https://example.com/mock-spinal-injury-image2.jpg"
+    ],
+    "severity": "critical",
+    "firstAidDescription": [
+      "Call emergency services immediately — spinal injuries require urgent medical care.",
+      "Keep the person completely still — instruct them not to move their head, neck, or back.",
+      "Stabilize the head and neck with your hands or rolled towels on both sides if trained.",
+      "Check for breathing and pulse — begin CPR if necessary, without moving the spine.",
+      "Keep the person warm and calm, and monitor for shock.",
+      "Only move the person if there is immediate danger (e.g., fire, drowning risk)."
+    ],
+    "doNotDo": [
+      "Do not move the person unless absolutely necessary — improper movement can worsen the injury.",
+      "Do not attempt to reposition the neck or spine — leave alignment as found.",
+      "Do not lift the head, neck, or legs.",
+      "Do not give food, drink, or medication — they may need surgery or have swallowing difficulties.",
+      "Do not leave the person alone, even if they seem okay — symptoms may appear later."
+    ],
+    "videoUrl": "https://example.com/mock-spinal-injury-video.mp4",
+    "requiredKits": [
+      {
+        "name": "Cervical collar or neck brace",
+        "iconUrl": "https://example.com/mock-icon-neck-brace.png"
+      },
+      {
+        "name": "Spine board or firm surface",
+        "iconUrl": "https://example.com/mock-icon-spine-board.png"
+      },
+      {
+        "name": "Emergency blanket",
+        "iconUrl": "https://example.com/mock-icon-emergency-blanket.png"
+      },
+      {
+        "name": "Sterile gauze pads",
+        "iconUrl": "https://example.com/mock-icon-gauze-pads.png"
+      },
+      {
+        "name": "Gloves",
+        "iconUrl": "https://example.com/mock-icon-gloves.png"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How can I tell if someone has a spinal injury?",
+        "answer": "Suspect it if there’s trauma from a fall, accident, or blow to the back/neck—especially if they have numbness, paralysis, or severe pain."
+      },
+      {
+        "question": "Should I move the injured person?",
+        "answer": "No. Do not move them unless they are in immediate danger (e.g., fire). Movement can worsen the injury."
+      },
+      {
+        "question": "What position should I keep them in?",
+        "answer": "Keep them as still as possible. Stabilize the head and neck to prevent any movement."
+      },
+      {
+        "question": "Can I perform CPR if they’re not breathing?",
+        "answer": "Yes—but use jaw-thrust technique (not head-tilt) to open the airway without moving the neck."
+      }
+    ],
+    "doctorType": ["Neurosurgeon", "Orthopedic Spine Specialist"],
+    "hospitalLocatorLink": "resqnow://nearby-hospitals?category=spinal-injury"
+  }
+]

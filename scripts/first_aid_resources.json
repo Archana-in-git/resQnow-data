@@ -1,0 +1,337 @@
+[
+  {
+    "id": "kit01",
+    "name": "Disposable Gloves",
+    "imageUrls": [
+      "https://dhanvantrihospital.in/wp-content/uploads/2019/01/medical_shop_5.jpg",
+      "https://dhanvantrihospital.in/wp-content/uploads/2019/01/medical_shop_5.jpg"
+    ],
+    "description": "A lightweight glove designed for safe handling of injuries and preventing contamination.",
+    "category": [
+      { "name": "Basic", "aliases": ["Essential", "Primary", "Fundamental"] },
+      { "name": "Workplace", "aliases": ["Office", "Jobsite", "Industrial"] },
+      { "name": "Home", "aliases": ["Household", "Domestic", "Residence"] }
+    ],
+    "tags": ["gloves", "hygiene", "infection control"],
+    "createdAt": "2025-08-01T09:30:00Z",
+    "updatedAt": "2025-08-01T09:30:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit02",
+    "name": "Medical Scissors",
+    "imageUrls": [
+      "https://5.imimg.com/data5/SELLER/Default/2023/7/322853713/KM/DK/ZM/4125690/medical-scissor-500x500.jpg"
+    ],
+    "description": "Durable stainless steel scissors for cutting bandages and clothing during emergencies.",
+    "category": [
+      {
+        "name": "Advanced",
+        "aliases": ["Specialized", "Professional", "Expert"]
+      },
+      { "name": "Workplace", "aliases": ["Office", "Jobsite", "Industrial"] }
+    ],
+    "tags": ["scissors", "cutting", "trauma"],
+    "createdAt": "2025-08-01T09:31:00Z",
+    "updatedAt": "2025-08-01T09:31:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "kit03",
+    "name": "CPR Mask",
+    "imageUrls": ["https://m.media-amazon.com/images/I/51nJUjobfzL.jpg"],
+    "description": "A compact CPR mask with one-way valve for safe resuscitation.",
+    "category": [
+      {
+        "name": "Advanced",
+        "aliases": ["Specialized", "Professional", "Expert"]
+      },
+      { "name": "Workplace", "aliases": ["Office", "Jobsite", "Industrial"] },
+      { "name": "Sports", "aliases": ["Athletics", "Fitness", "Recreation"] }
+    ],
+    "tags": ["CPR", "resuscitation", "emergency"],
+    "createdAt": "2025-08-01T09:32:00Z",
+    "updatedAt": "2025-08-01T09:32:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit04",
+    "name": "Burn Gel Sachets",
+    "imageUrls": [
+      "https://image.made-in-china.com/202f0j00serWzFaYvRpH/First-Aid-Sheet-Bottle-Spray-Tube-Burn-Gel-for-Instant-Minor-Burn-Relief.webp"
+    ],
+    "description": "Cooling gel sachets for immediate relief from minor burns.",
+    "category": [
+      {
+        "name": "Burn Care",
+        "aliases": ["Burn Relief", "Burn Treatment", "Cooling"]
+      },
+      { "name": "Home", "aliases": ["Household", "Domestic", "Residence"] },
+      { "name": "Workplace", "aliases": ["Office", "Jobsite", "Industrial"] }
+    ],
+    "tags": ["burn", "gel", "cooling"],
+    "createdAt": "2025-08-01T09:33:00Z",
+    "updatedAt": "2025-08-01T09:33:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "kit05",
+    "name": "Elastic Bandage Roll",
+    "imageUrls": [
+      "https://cruzine.in/cdn/shop/files/Untitled_992x.png?v=1711783440^&width=500"
+    ],
+    "description": "Stretchable bandage for sprains and support during recovery.",
+    "category": [
+      { "name": "Basic", "aliases": ["Essential", "Primary", "Fundamental"] },
+      { "name": "Sports", "aliases": ["Athletics", "Fitness", "Recreation"] },
+      { "name": "Outdoor", "aliases": ["Field", "Nature", "Open Air"] }
+    ],
+    "tags": ["bandage", "sprain", "support"],
+    "createdAt": "2025-08-01T09:34:00Z",
+    "updatedAt": "2025-08-01T09:34:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit06",
+    "name": "Antiseptic Wipes",
+    "imageUrls": [
+      "https://www.gosupps.com/media/catalog/product/cache/25/image/9df78eab33525d08d6e5fb8d27136e95/7/1/71fw6CkTW4L.jpg"
+    ],
+    "description": "Pre-moistened wipes for cleaning wounds and preventing infection.",
+    "category": [
+      { "name": "Basic", "aliases": ["Essential", "Primary", "Fundamental"] },
+      { "name": "Travel", "aliases": ["Journey", "Trip", "Tour"] },
+      { "name": "Home", "aliases": ["Household", "Domestic", "Residence"] }
+    ],
+    "tags": ["antiseptic", "wipes", "cleaning"],
+    "createdAt": "2025-08-01T09:35:00Z",
+    "updatedAt": "2025-08-01T09:35:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "kit07",
+    "name": "Tweezers",
+    "imageUrls": [
+      "https://assets.manufactum.de/p/204/204910/204910_01.jpg/tweezers-stainless-steel.jpg?profile=pdsmain_1500"
+    ],
+    "description": "Precision tweezers for removing splinters or debris from wounds.",
+    "category": [
+      { "name": "Basic", "aliases": ["Essential", "Primary", "Fundamental"] },
+      { "name": "Outdoor", "aliases": ["Field", "Nature", "Open Air"] },
+      { "name": "Workplace", "aliases": ["Office", "Jobsite", "Industrial"] }
+    ],
+    "tags": ["tweezers", "splinter", "debris"],
+    "createdAt": "2025-08-01T09:36:00Z",
+    "updatedAt": "2025-08-01T09:36:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "kit08",
+    "name": "Instant Cold Pack",
+    "imageUrls": [
+      "https://mll5eakftz0f.i.optimole.com/cb:lTpK.1a760/w:1080/h:1080/q:mauto/f:best/https://procureproducts.com/wp-content/uploads/2023/06/WynnMed-PC1210-00753.jpg"
+    ],
+    "description": "Single-use cold pack for reducing swelling and pain.",
+    "category": [
+      { "name": "Sports", "aliases": ["Athletics", "Fitness", "Recreation"] },
+      { "name": "Travel", "aliases": ["Journey", "Trip", "Tour"] },
+      { "name": "Vehicle", "aliases": ["Car", "Automobile", "Transport"] }
+    ],
+    "tags": ["cold", "swelling", "pain relief"],
+    "createdAt": "2025-08-01T09:37:00Z",
+    "updatedAt": "2025-08-01T09:37:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit09",
+    "name": "Thermal Blanket",
+    "imageUrls": [
+      "https://cdn11.bigcommerce.com/s-zd141b7qtp/images/stencil/1280x1280/products/47745/155554/open-weave-thermal-blanket-white-kse__99268.1707127944.jpg?c=1"
+    ],
+    "description": "Emergency foil blanket to retain body heat in cold conditions.",
+    "category": [
+      { "name": "Outdoor", "aliases": ["Field", "Nature", "Open Air"] },
+      { "name": "Vehicle", "aliases": ["Car", "Automobile", "Transport"] },
+      { "name": "Travel", "aliases": ["Journey", "Trip", "Tour"] }
+    ],
+    "tags": ["blanket", "thermal", "hypothermia"],
+    "createdAt": "2025-08-01T09:38:00Z",
+    "updatedAt": "2025-08-01T09:38:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "kit10",
+    "name": "Band-aids",
+    "imageUrls": [
+      "https://t3.ftcdn.net/jpg/16/57/89/40/360_F_1657894073_12TgfuCPZf0ttiyMRubboBi1IIubhh7i.jpg"
+    ],
+    "description": "Soft bandage designed for pet paws to protect minor injuries.",
+    "category": [
+      { "name": "Pet", "aliases": ["Animal", "Companion", "Veterinary"] },
+      { "name": "Home", "aliases": ["Household", "Domestic", "Residence"] }
+    ],
+    "tags": ["pet", "paw", "bandage"],
+    "createdAt": "2025-08-01T09:39:00Z",
+    "updatedAt": "2025-08-01T09:39:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit11",
+    "name": "Seatbelt Cutter",
+    "imageUrls": ["https://m.media-amazon.com/images/I/61zu04UNRkL.jpg"],
+    "description": "Compact cutter for emergency vehicle escape.",
+    "category": [
+      { "name": "Vehicle", "aliases": ["Car", "Automobile", "Transport"] },
+      {
+        "name": "Advanced",
+        "aliases": ["Specialized", "Professional", "Expert"]
+      }
+    ],
+    "tags": ["cutter", "vehicle", "escape"],
+    "createdAt": "2025-08-01T09:40:00Z",
+    "updatedAt": "2025-08-01T09:40:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit12",
+    "name": "Motion Sickness Tablets",
+    "imageUrls": [
+      "https://boironusa.s3.us-east-1.amazonaws.com/offload/www.boironusa.com/uploads/2022/01/MotionCalm_Tablets_SLEEVE_CONTENTS_300dpi-scaled.webp"
+    ],
+    "description": "Tablets to prevent nausea during travel.",
+    "category": [
+      { "name": "Travel", "aliases": ["Journey", "Trip", "Tour"] },
+      { "name": "Vehicle", "aliases": ["Car", "Automobile", "Transport"] }
+    ],
+    "tags": ["motion sickness", "nausea", "travel"],
+    "createdAt": "2025-08-01T09:41:00Z",
+    "updatedAt": "2025-08-01T09:41:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "kit13",
+    "name": "Child-Safe Thermometer",
+    "imageUrls": ["https://example.com/images/thermometer.jpg"],
+    "description": "Digital thermometer with flexible tip for safe temperature checks.",
+    "category": [
+      { "name": "Home", "aliases": ["Household", "Domestic", "Residence"] },
+      { "name": "Basic", "aliases": ["Essential", "Primary", "Fundamental"] }
+    ],
+    "tags": ["thermometer", "child-safe", "temperature"],
+    "createdAt": "2025-08-01T09:42:00Z",
+    "updatedAt": "2025-08-01T09:42:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit14",
+    "name": "Splint Kit",
+    "imageUrls": ["https://example.com/images/splint.jpg"],
+    "description": "Foldable splint for immobilizing limbs during injury.",
+    "category": [
+      {
+        "name": "Advanced",
+        "aliases": ["Specialized", "Professional", "Expert"]
+      },
+      { "name": "Outdoor", "aliases": ["Field", "Nature", "Open Air"] },
+      { "name": "Sports", "aliases": ["Athletics", "Fitness", "Recreation"] }
+    ],
+    "tags": ["splint", "immobilize", "fracture"],
+    "createdAt": "2025-08-01T09:43:00Z",
+    "updatedAt": "2025-08-01T09:43:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit15",
+    "name": "Sterile Gauze Pads",
+    "imageUrls": ["https://example.com/images/gauze.jpg"],
+    "description": "Absorbent gauze pads for dressing wounds.",
+    "category": [
+      { "name": "Basic", "aliases": ["Essential", "Primary", "Fundamental"] },
+      { "name": "Workplace", "aliases": ["Office", "Jobsite", "Industrial"] },
+      { "name": "Home", "aliases": ["Household", "Domestic", "Residence"] }
+    ],
+    "tags": ["gauze", "wound", "sterile"],
+    "createdAt": "2025-08-01T09:44:00Z",
+    "updatedAt": "2025-08-01T09:44:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "kit16",
+    "name": "Eye Wash Solution",
+    "imageUrls": ["https://example.com/images/eyewash.jpg"],
+    "description": "Sterile saline solution for flushing out irritants from the eyes.",
+    "category": [
+      { "name": "Workplace", "aliases": ["Office", "Jobsite", "Industrial"] },
+      {
+        "name": "Advanced",
+        "aliases": ["Specialized", "Professional", "Expert"]
+      },
+      { "name": "Outdoor", "aliases": ["Field", "Nature", "Open Air"] }
+    ],
+    "tags": ["eye", "irritant", "saline"],
+    "createdAt": "2025-08-01T09:45:00Z",
+    "updatedAt": "2025-08-01T09:45:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit17",
+    "name": "Finger Splint",
+    "imageUrls": ["https://example.com/images/fingersplint.jpg"],
+    "description": "Aluminum and foam splint to stabilize injured fingers.",
+    "category": [
+      { "name": "Sports", "aliases": ["Athletics", "Fitness", "Recreation"] },
+      {
+        "name": "Advanced",
+        "aliases": ["Specialized", "Professional", "Expert"]
+      },
+      { "name": "Home", "aliases": ["Household", "Domestic", "Residence"] }
+    ],
+    "tags": ["splint", "finger", "stabilize"],
+    "createdAt": "2025-08-01T09:46:00Z",
+    "updatedAt": "2025-08-01T09:46:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "kit18",
+    "name": "Pet Eye Drops",
+    "imageUrls": ["https://example.com/images/peteyedrops.jpg"],
+    "description": "Gentle eye drops for treating minor pet eye irritations.",
+    "category": [
+      { "name": "Pet", "aliases": ["Animal", "Companion", "Veterinary"] }
+    ],
+    "tags": ["pet", "eye", "drops"],
+    "createdAt": "2025-08-01T09:47:00Z",
+    "updatedAt": "2025-08-01T09:47:00Z",
+    "isFeatured": true
+  },
+  {
+    "id": "kit19",
+    "name": "Adhesive Tape",
+    "imageUrls": ["https://example.com/images/tape.jpg"],
+    "description": "Medical-grade adhesive tape for securing bandages and dressings.",
+    "category": [
+      { "name": "Basic", "aliases": ["Essential", "Primary", "Fundamental"] },
+      { "name": "Workplace", "aliases": ["Office", "Jobsite", "Industrial"] },
+      { "name": "Travel", "aliases": ["Journey", "Trip", "Tour"] }
+    ],
+    "tags": ["tape", "adhesive", "secure"],
+    "createdAt": "2025-08-01T09:48:00Z",
+    "updatedAt": "2025-08-01T09:48:00Z",
+    "isFeatured": false
+  },
+  {
+    "id": "kit20",
+    "name": "Emergency Whistle",
+    "imageUrls": ["https://example.com/images/whistle.jpg"],
+    "description": "Loud whistle for signaling help during outdoor emergencies.",
+    "category": [
+      { "name": "Outdoor", "aliases": ["Field", "Nature", "Open Air"] },
+      { "name": "Vehicle", "aliases": ["Car", "Automobile", "Transport"] },
+      { "name": "Travel", "aliases": ["Journey", "Trip", "Tour"] }
+    ],
+    "tags": ["whistle", "signal", "emergency"],
+    "createdAt": "2025-08-01T09:49:00Z",
+    "updatedAt": "2025-08-01T09:49:00Z",
+    "isFeatured": true
+  }
+]

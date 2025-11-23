@@ -1,0 +1,194 @@
+[
+  {
+    "id": "airway_obstruction",
+    "name": "Airway Obstruction",
+    "aliases": ["blocked airway", "choking", "obstructed airway"],
+    "iconAsset": "lib/assets/images/icons/lungs-organ.png",
+    "isVisible": true,
+    "order": 1
+  },
+  {
+    "id": "allergic_reaction",
+    "name": "Allergic Reaction",
+    "aliases": ["allergy", "skin allergy", "food allergy"],
+    "iconAsset": "lib/assets/images/icons/hives.png",
+    "isVisible": true,
+    "order": 2
+  },
+  {
+    "id": "anaphylaxis",
+    "name": "Anaphylaxis",
+    "aliases": ["severe allergy", "anaphylactic shock"],
+    "iconAsset": "lib/assets/images/icons/Anaphylaxis.png",
+    "isVisible": true,
+    "order": 3
+  },
+  {
+    "id": "asthma",
+    "name": "Asthma",
+    "aliases": ["asthma attack", "wheezing", "breathing problem"],
+    "iconAsset": "lib/assets/images/icons/asthma.png",
+    "isVisible": true,
+    "order": 4
+  },
+  {
+    "id": "broken_bone",
+    "name": "Broken Bone",
+    "aliases": ["fracture", "bone injury", "crack in bone"],
+    "iconAsset": "lib/assets/images/icons/broken_bone.png",
+    "isVisible": true,
+    "order": 5
+  },
+  {
+    "id": "burn",
+    "name": "Burns",
+    "aliases": ["fire burn", "scald", "hot object injury"],
+    "iconAsset": "lib/assets/images/icons/fire.png",
+    "isVisible": true,
+    "order": 6
+  },
+  {
+    "id": "cardiac_arrest",
+    "name": "Cardiac Arrest",
+    "aliases": ["heart attack", "heart failure", "cardiac failure"],
+    "iconAsset": "lib/assets/images/icons/heart.png",
+    "isVisible": true,
+    "order": 7
+  },
+  {
+    "id": "chemical_burn",
+    "name": "Chemical Burn",
+    "aliases": ["acid burn", "chemical injury", "chemical exposure"],
+    "iconAsset": "lib/assets/images/icons/chemical_burn.png",
+    "isVisible": true,
+    "order": 8
+  },
+  {
+    "id": "chemical_in_eye",
+    "name": "Chemical in Eye",
+    "aliases": ["acid in eye", "eye burn", "chemical splash eye"],
+    "iconAsset": "lib/assets/images/icons/chemical_eye.png",
+    "isVisible": true,
+    "order": 9
+  },
+  {
+    "id": "deep_cut",
+    "name": "Deep Cut",
+    "aliases": [
+      "cut",
+      "deep cut",
+      "wound",
+      "open wound",
+      "bleeding",
+      "blood",
+      "injury",
+      "laceration",
+      "skin cut",
+      "hand wound",
+      "finger cut",
+      "knife cut",
+      "accident cut",
+      "bleeding hand",
+      "bleeding skin",
+      "deep wound",
+      "skin injury",
+      "fresh cut",
+      "hand bleeding",
+      "bloody wound",
+      "severe cut",
+      "gash",
+      "split skin",
+      "open injury",
+      "hand",
+      "skin",
+      "flesh",
+      "nail",
+      "foot",
+      "human hand",
+      "body part"
+    ],
+    "iconAsset": "lib/assets/images/icons/deep_cut.png",
+    "isVisible": true,
+    "order": 10
+  },
+  {
+    "id": "drowning",
+    "name": "Drowning",
+    "aliases": ["near drowning", "water rescue", "underwater accident"],
+    "iconAsset": "lib/assets/images/icons/drowning.png",
+    "isVisible": true,
+    "order": 11
+  },
+  {
+    "id": "electric_shock",
+    "name": "Electric Shock",
+    "aliases": ["electrocution", "shock injury", "electric injury"],
+    "iconAsset": "lib/assets/images/icons/shock.png",
+    "isVisible": true,
+    "order": 12
+  },
+  {
+    "id": "head_injury",
+    "name": "Head Injury",
+    "aliases": ["concussion", "brain injury", "head trauma"],
+    "iconAsset": "lib/assets/images/icons/head_injury.png",
+    "isVisible": true,
+    "order": 13
+  },
+  {
+    "id": "insect_sting_reaction",
+    "name": "Insect Sting",
+    "aliases": ["bee sting", "wasp sting", "bug bite", "insect bite"],
+    "iconAsset": "lib/assets/images/icons/insect.png",
+    "isVisible": true,
+    "order": 14
+  },
+  {
+    "id": "muscle_strain",
+    "name": "Muscle Strain",
+    "aliases": ["pulled muscle", "muscle injury", "sprain"],
+    "iconAsset": "lib/assets/images/icons/muscle strain_2.png",
+    "isVisible": true,
+    "order": 15
+  },
+  {
+    "id": "nosebleed",
+    "name": "Nosebleed",
+    "aliases": ["bleeding nose", "epistaxis", "nose blood"],
+    "iconAsset": "lib/assets/images/icons/nosebleed.png",
+    "isVisible": true,
+    "order": 16
+  },
+  {
+    "id": "poisonous_gas_fumes",
+    "name": "Poisonous Gas",
+    "aliases": ["toxic gas", "gas leak", "poisonous air"],
+    "iconAsset": "lib/assets/images/icons/toxic_gas.png",
+    "isVisible": true,
+    "order": 17
+  },
+  {
+    "id": "seizure",
+    "name": "Seizure",
+    "aliases": ["epilepsy", "convulsion", "fit"],
+    "iconAsset": "lib/assets/images/icons/seizure.png",
+    "isVisible": true,
+    "order": 18
+  },
+  {
+    "id": "snake_bite",
+    "name": "Snake Bite",
+    "aliases": ["venomous bite", "reptile bite", "cobra bite"],
+    "iconAsset": "lib/assets/images/icons/snake_bite.png",
+    "isVisible": true,
+    "order": 19
+  },
+  {
+    "id": "spinal_cord_injury",
+    "name": "Spinal Cord Injury",
+    "aliases": ["spine injury", "backbone damage", "spinal injury"],
+    "iconAsset": "lib/assets/images/icons/spinal-injury.png",
+    "isVisible": true,
+    "order": 20
+  }
+]
