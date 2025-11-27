@@ -21,7 +21,8 @@
     "id": "kit02",
     "name": "Medical Scissors",
     "imageUrls": [
-      "https://5.imimg.com/data5/SELLER/Default/2023/7/322853713/KM/DK/ZM/4125690/medical-scissor-500x500.jpg"
+      "https://5.imimg.com/data5/SELLER/Default/2023/7/322853713/KM/DK/ZM/4125690/medical-scissor-500x500.jpg",
+      "https://d29azk3rh443yy.cloudfront.net/static/Products/surgical-mayo-scissor-straight-surginatal.com-002.webp"
     ],
     "description": "Durable stainless steel scissors for cutting bandages and clothing during emergencies.",
     "category": [
@@ -178,7 +179,11 @@
   {
     "id": "kit11",
     "name": "Seatbelt Cutter",
-    "imageUrls": ["https://m.media-amazon.com/images/I/61zu04UNRkL.jpg"],
+    "imageUrls": [
+      "https://m.media-amazon.com/images/I/61zu04UNRkL.jpg",
+      "https://www.emiintl.com/assets/1/15/StoreItemRegularDimension/e99a4c0558c448889771c3c7b87f6c341.JPG",
+      "https://m.media-amazon.com/images/I/61zu04UNRkL.jpg"
+    ],
     "description": "Compact cutter for emergency vehicle escape.",
     "category": [
       { "name": "Vehicle", "aliases": ["Car", "Automobile", "Transport"] },
